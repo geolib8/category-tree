@@ -32,3 +32,10 @@ Also includes an iterative version of the category search to avoid deep recursio
 
 ```bash
 node src/index.js
+
+## Tests
+
+Run unit tests with:
+
+```bash
+npm test

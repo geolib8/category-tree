@@ -63,5 +63,6 @@ function validateCategory(category) {
 
 module.exports = {
     getCategoryPaths,
-    findCategoryById
+    findCategoryById,
+    findCategoryByIdIterative
 };
